@@ -34,12 +34,8 @@
 
 存放 prompt 架構模板和語法指南，用於標準化和提高建構新 prompts 的效率。
 
-- **StructureTemplates**: 包括基本和進階的 prompt 架構模板，幫助用戶快速搭建 prompt 框架。
-- **SyntaxGuides**: 提供基本和進階的語法指南，幫助用戶精確控制 prompt 的輸出。
-
-## Constructor
-
-- intro.md: 介紹每個分類的目錄結構及該主題的 Markdown 內容指南。
+- **XXX_template**: 包括基本和進階的 prompt 架構模板，幫助用戶快速搭建 prompt 框架。
+- **intro**: 提供基本和進階的語法指南，幫助用戶精確控制 prompt 的輸出。
 
 請在使用或貢獻 prompts 時，遵循相關指南，以確保資料庫的一致性和質量。
 
