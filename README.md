@@ -14,7 +14,7 @@
 
 存放各種實用工具類 prompts，同樣分為教育、娛樂和生產力三個子分類。
 
-- **Educational**: 提供學習輔助的 prompts，例如教程和測驗。
+- **Educational**: 提供學習輔助的 prompts，例如編程和測驗。
 - **Entertainment**: 娛樂性質的實用工具 prompts，如音樂生成和藝術創作。
 - **Productivity**: 生產力工具類 prompts，用於自動化和數據分析。
 
@@ -25,6 +25,10 @@
 - **Educational**: 促進研究和學習的 prompts，如研究想法和學習指南。
 - **Entertainment**: 提供娛樂和社交活動靈感的 prompts，如即興遊戲和派對創意。
 - **Productivity**: 促進效率的發想 prompts，如思維導圖和目標設定。
+
+## Draw
+
+各式各樣的繪圖 prompt
 
 ## PromptTemplates
 
