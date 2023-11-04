@@ -1,4 +1,4 @@
-# GPT-Prompts 資料夾結構
+# GPT-Prompts
 
 此結構旨在組織和存放 GPT 相關的 prompts，便於快速訪問和理解。
 
