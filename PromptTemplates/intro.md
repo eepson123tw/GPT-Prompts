@@ -60,6 +60,6 @@ Template: "在創建 [類型] prompt 時，應考慮哪些關鍵要素？請列�
 
 請參閱以下資料以獲得更多有關 prompt 創建和優化的資訊：
 
-[ai-guide](https://ai-guide.future.mozilla.org/content/introduction/#if-youre-new-to-ai)
-[深度學習](https://zh.d2l.ai/index.html)
-[AGI 之路](https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
+- [ai-guide](https://ai-guide.future.mozilla.org/content/introduction/#if-youre-new-to-ai)
+- [深度學習](https://zh.d2l.ai/index.html)
+- [AGI 之路](https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
