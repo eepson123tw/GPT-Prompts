@@ -55,8 +55,8 @@
 
 ### 特別感謝
 
-John大 [JohnKeng](https://github.com/JohnKeng)
-@▢ － · － ▢ 
+- John大 [JohnKeng](https://github.com/JohnKeng)
+- @▢ － · － ▢ 
 
 一起交流並演進指令工程
 
