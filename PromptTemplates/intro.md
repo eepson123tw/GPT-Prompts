@@ -60,6 +60,17 @@ Template: "在創建 [類型] prompt 時，應考慮哪些關鍵要素？請列�
 
 請參閱以下資料以獲得更多有關 prompt 創建和優化的資訊：
 
+John 大提供
 - [ai-guide](https://ai-guide.future.mozilla.org/content/introduction/#if-youre-new-to-ai)
 - [深度學習](https://zh.d2l.ai/index.html)
 - [AGI 之路](https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
+
+@▢ － · － ▢ 提供
+- [工程课程](https://learnprompting.org/zh-Hans/docs/trainable/discretized)
+- [高效對話](https://gitlab.com/awesomeai/awesome-chatgpt-zh/-/blob/main/docs/ChatGPT_prompts.md)
+- [學習 prompt](https://www.learnprompt.pro/docs/intro)
+- [提示工程指南](https://www.promptingguide.ai/zh)
+
+- [prompt store](https://promptport.ai/)
+
+
