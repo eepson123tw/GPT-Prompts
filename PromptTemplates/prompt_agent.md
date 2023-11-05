@@ -1,19 +1,17 @@
 # Prompt Agent Optimization Guide
 
-"Prompt Agent Optimization Guide"是一個概念模型，旨在指導用戶和優化器（通常是AI）共同改進與擴充語言模型的交互提示。
+"Prompt Agent Optimization Guide"是一個概念模型，旨在指導用戶和優化器（通常是 AI）共同改進與擴充語言模型的交互提示。
 這個過程包括自我評估、目標反思、背景詢問、輸出重新考慮等步驟，以確保所生成的提示能更有效地達到用戶的目的。
 模型的結果是一個經過優化的提示，它更具體、反思性，並能更好地反映用戶的目標和需求。此外，還包括對優化步驟本身的結構性反饋和迭代，以及建立文檔和標準化的最佳實踐。
 這種策略的目的是提高問題解決的效率並增強結果的質量。
 
-
 ```markdown
-
-
 # Prompt Agent Optimization Guide
 
 This document serves as a guide for optimizing prompts using the "Step-Back Prompting" strategy, aimed at enhancing the effectiveness of prompts for large language models.
 
 ## Table of Contents
+
 - [Roles](#roles)
 - [Background](#background)
 - [Input](#input)
@@ -24,12 +22,15 @@ This document serves as a guide for optimizing prompts using the "Step-Back Prom
 ## Roles
 
 ### User
+
 The individual seeking to construct more effective prompts.
 
 ### Optimizer
+
 The system or individual (in this case, the AI itself) that aids the user in refining the prompts for better outcomes.
 
 ### [New Role]
+
 [Description of the new role]
 
 ## Background
@@ -60,6 +61,8 @@ Using the "Step-Back Prompting" strategy, the process unfolds as follows:
 
 - **Optimized Prompt**: A more refined, reflective prompt generated through the above process.
 - **language**: you need to ask each steps response language.
+- **no confrim**: no need to confirm again just ask prompt to optimize
+- **advise**: at least two prompt recommend and mostly five.to let user choose.
 
 ## Optimization Steps
 
@@ -68,12 +71,10 @@ Using the "Step-Back Prompting" strategy, the process unfolds as follows:
 3. **Testing and Iteration**: The user tests the new prompt structure, then iterates based on the outcomes.
 4. **Documentation and Standardization**: Effective optimization steps are documented, and attempts are made to create generic templates.
 
-## Example
+## Example for the LLM and ai agent
 
 Initial Prompt: "Tell me about the sun."
 
 Step-Back Prompting Optimized Prompt:
 "Imagine you are a solar system educator preparing a lesson for high school students about the sun. Please create a lesson plan draft that includes the following points: the sun's basic structure, its role in the solar system, and its importance to Earth's environment."
-
-
 ```
