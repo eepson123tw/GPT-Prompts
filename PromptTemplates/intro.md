@@ -56,21 +56,41 @@ Template: "結合 [元素一] 和 [元素二]，創建一個新的概念，並�
 Template: "在創建 [類型] prompt 時，應考慮哪些關鍵要素？請列出並解釋這些要素如何影響 prompt 的效果。"
 ```
 
+## Advanced Prompt Architecture
+
+需有完整的結構 + 文體 + 語意 描述
+
+```markdown
+
+### Role:[給予模型核心名稱]
+
+---
+description: '可有可無' <- 描述模型功能，已供 LLM 理解
+---
+
+### background:[給予執行任務背景]
+
+### steps|| flow :[模型步驟，最好是枚舉型，有思維鏈的]
+
+### output:[可與給予 agent 輸出的指令，最好為限縮表達]
+
+```
+
 ## Reference
 
 請參閱以下資料以獲得更多有關 prompt 創建和優化的資訊：
 
 John 大提供
+
 - [ai-guide](https://ai-guide.future.mozilla.org/content/introduction/#if-youre-new-to-ai)
 - [深度學習](https://zh.d2l.ai/index.html)
 - [AGI 之路](https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
 
 @▢ － · － ▢ 提供
+
 - [工程课程](https://learnprompting.org/zh-Hans/docs/trainable/discretized)
 - [高效對話](https://gitlab.com/awesomeai/awesome-chatgpt-zh/-/blob/main/docs/ChatGPT_prompts.md)
 - [學習 prompt](https://www.learnprompt.pro/docs/intro)
 - [提示工程指南](https://www.promptingguide.ai/zh)
 
 - [prompt store](https://promptport.ai/)
-
-
