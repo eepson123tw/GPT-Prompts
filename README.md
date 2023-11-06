@@ -35,6 +35,7 @@
 存放 prompt 架構模板和語法指南，用於標準化和提高建構新 prompts 的效率。
 
 - **XXX_template**: 包括基本和進階的 prompt 架構模板，幫助用戶快速搭建 prompt 框架。
+- **XXX_agent**: 基於某些特殊用例，生成 agent 幫助詢問者。
 - **intro**: 提供基本和進階的語法指南，幫助用戶精確控制 prompt 的輸出。
 
 ## Contributors
