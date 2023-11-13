@@ -94,3 +94,6 @@ John 大提供
 - [提示工程指南](https://www.promptingguide.ai/zh)
 
 - [prompt store](https://promptport.ai/)
+- [prompt agent store CN](https://aiweaver.feishu.cn/wiki/Nr20wfev0iH9oWkhxkVcFhQsn7g?table=tblIuot5sFDXcKqX&view=vewZgF9Ol5)
+
+
