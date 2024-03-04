@@ -52,7 +52,7 @@
 
 以下是對此資料庫做出卓越貢獻的人員名單：
 
-- [AllenShih](https://github.com/eepson123tw) - 創建者和主要維護者
+- [AaronShih](https://github.com/eepson123tw) - 創建者和主要維護者
 
 ### 特別感謝
 
